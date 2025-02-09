@@ -36,7 +36,7 @@ Several machine learning models were trained and evaluated for fake news detecti
 
 ---
 
-## 4. Model Performance
+## 4. Feature Selection & Model Performance
 Each model was evaluated based on accuracy, precision, recall, and F1-score. The **confusion matrix** and **ROC curve** were used to assess classification performance.
 
 ![Model Performance](https://github.com/slashhsu/NLP-Fake-news-predict/assets/137000188/f636d822-787f-4eff-9b0d-10c36250e37f)
