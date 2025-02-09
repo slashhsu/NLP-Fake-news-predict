@@ -77,13 +77,6 @@ The ROC curve visualising model performance:
 
 ---
 
-## 7. How to Use This Repository
-📥 Clone the repository:
-```bash
-git clone https://github.com/slashhsu/NLP-Fake-news-predict.git
-```
-📂 Explore the project files and analysis scripts.
-
 📧 For any questions, feel free to contact me!
 
 ---
