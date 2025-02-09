@@ -81,7 +81,7 @@ The ROC curve visualising model performance:
 
 ---
 
-## 8. References
+## 7. References
 - Kaggle Fake News Dataset
 - NLP and Machine Learning Techniques for Text Classification
 - Research papers on Fake News Detection using NLP
